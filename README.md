@@ -11,3 +11,7 @@ Apple pie pastry lemon drops chupa chups toffee tiramisu pudding gingerbread. Br
 ### Lorem ipsum
 
 Carrot cake lollipop chocolate bar liquorice chocolate jelly beans apple pie muffin jelly. Donut fruitcake danish pie danish.
+
+## Obama ipsum
+
+And if we can do that - if we can embrace a common destiny - then I believe we'll not just help bring about a more hopeful day in America, we'll not just be caring for our own souls, we'll be doing God's work here on Earth. America, we are better than these last eight years.
