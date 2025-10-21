@@ -12,5 +12,9 @@ Apple pie pastry lemon drops chupa chups toffee tiramisu pudding gingerbread. Br
 
 Carrot cake lollipop chocolate bar liquorice chocolate jelly beans apple pie muffin jelly. Donut fruitcake danish pie danish.
 
+<<<<<<< Updated upstream
 
 Ahoy matey, yar lorem ipsum text is awash with brigands, bilge and more. Get swashbuckling with this trendy looking pirate placeholder text generator.
+=======
+Björn: Ahoy matey, yar lorem ipsum text is awash with brigands, bilge and more. Get swashbuckling with this trendy looking pirate placeholder text generator.
+>>>>>>> Stashed changes
